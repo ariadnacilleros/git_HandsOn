@@ -1,5 +1,5 @@
 #!/bin/bash
-seq=$1
+
 if [[ $seq =~ ^[ACGTU]+$ ]]; then
   if [[ $seq =~ T ]]; then
     echo "The sequence is DNA"
