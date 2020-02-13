@@ -1,2 +1,2 @@
 # git_HandsOn
-Busca motifs
+Defines if a sequence is DNA or RNA, based in T or U presence. 
